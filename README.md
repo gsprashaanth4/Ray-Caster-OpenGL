@@ -32,4 +32,5 @@ run the executable
 ```shell
 ./ray
 ```
-
+<img width="2076" height="578" alt="Screenshot from 2026-05-15 17-23-56" src="https://github.com/user-attachments/assets/fd842a46-d677-480f-84ec-9c642e4211d9" /><br>
+<img width="2076" height="578" alt="Screenshot from 2026-05-15 17-23-40" src="https://github.com/user-attachments/assets/7deb4275-794e-4945-a5db-2f14bb489e7d" />
