@@ -8,7 +8,6 @@ The program provides the user with the following controls:<br>
 -> Camera front, back, right, left movements<br>
 -> Camera FOV control (in-code)<br>
 -> Ray density control (in-code via float rayCharge)<br>
--> Real-time performance data, through frame-rate calculation
 
 ## How to run
 
